@@ -1,3 +1,48 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11106</md:content-id>  <md:title>Lewensvaardighede Graad 3</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>af</md:language>              <md:uuid>741e8b27-d668-44ae-bf80-2739c88935b8</md:uuid>
-<md:slug>lewensvaardighede-graad-3</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Kwartaal 1</md:title>                                <col:content>                    <col:module document="m27040"/>                            <col:module document="m27042"/>                            <col:module document="m27047"/>                            <col:module document="m27052"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Kwartaal 2</md:title>                                <col:content>                    <col:module document="m27053"/>                            <col:module document="m27054"/>                            <col:module document="m27057"/>                            <col:module document="m27061"/>                            <col:module document="m27066"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Kwartaal 3</md:title>                                <col:content>                    <col:module document="m27068"/>                            <col:module document="m27070"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Kwartaal 4</md:title>                                <col:content>                    <col:module document="m27073"/>                            <col:module document="m27078"/>                            <col:module document="m27083"/>                            <col:module document="m27086"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Siyavula Uploaders">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11106</md:content-id>
+    <md:title>Lewensvaardighede Graad 3</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>af</md:language>
+    <md:uuid>741e8b27-d668-44ae-bf80-2739c88935b8</md:uuid>
+    <md:slug>lewensvaardighede-graad-3</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Kwartaal 1</md:title>
+      <col:content>
+        <col:module document="m27040"/>
+        <col:module document="m27042"/>
+        <col:module document="m27047"/>
+        <col:module document="m27052"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Kwartaal 2</md:title>
+      <col:content>
+        <col:module document="m27053"/>
+        <col:module document="m27054"/>
+        <col:module document="m27057"/>
+        <col:module document="m27061"/>
+        <col:module document="m27066"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Kwartaal 3</md:title>
+      <col:content>
+        <col:module document="m27068"/>
+        <col:module document="m27070"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Kwartaal 4</md:title>
+      <col:content>
+        <col:module document="m27073"/>
+        <col:module document="m27078"/>
+        <col:module document="m27083"/>
+        <col:module document="m27086"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
